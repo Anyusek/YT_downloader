@@ -42,7 +42,7 @@
 git clone https://github.com/Anyusek/YT_downloader.git
 cd yt-downloader
 pip install -r requirements.txt
-python yt_downloader
+python yt_downloader.py
 ```
 
 ## ⚠️ Важно
