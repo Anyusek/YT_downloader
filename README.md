@@ -55,9 +55,9 @@ python yt_downloader.py
 Проект находится в активной разработке и продолжает улучшаться. У меня это только начало. Возможны могут работать не так или неточно.
 
 Если у вас остались вопросы, возникли проблемы или что-то улучшить - напишите в лс мне в социальных сетях:
-·	Telegram: @anyusek
-·	VK: @anyusek (https://vk.com/anyusek)
-·	MAX: https://max.ru/u/f9LHodD0cOJWoqJyV49iP9Xd-AhGVIP2DDCrlU77-ERzrRKGaMeFtnXXbvU 
+*	Telegram: @anyusek
+*	VK: @anyusek (https://vk.com/anyusek)
+*	MAX: https://max.ru/u/f9LHodD0cOJWoqJyV49iP9Xd-AhGVIP2DDCrlU77-ERzrRKGaMeFtnXXbvU 
 
 ## 📌 Мои планы на будущее
 
